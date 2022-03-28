@@ -9,6 +9,7 @@ Modification du projet réalisé par JustFS (https://github.com/JustFS/mern-proj
 ### React / Express / MongoDB / Redux
 
 Démarrer le server : `npm start`
+
 Démarrer le front : `cd client` + `npm start`
 
 ---
